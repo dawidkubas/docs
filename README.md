@@ -1,8 +1,8 @@
-# Tokenomia TPRO Documentation
+# TPRO Documentation
 
 ## Description
 
-This repository contains official documentation for Tokenomia TPRO project. We recommend you to read this pages on [official website](https://tpro.pro/docs). If you see any problems or misleading parts of this document, tell use about it in [Github Issues](https://github.com/tpro-network/docs/issues) or consider making contributions yourself.
+This repository contains official documentation for TPRO project. We recommend you to read this pages on [official website](https://tpro.pro/docs). If you see any problems or misleading parts of this document, tell use about it in [Github Issues](https://github.com/tpro-network/docs/issues) or consider making contributions yourself.
 
 ## Table of Contents
 
